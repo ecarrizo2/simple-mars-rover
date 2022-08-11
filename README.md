@@ -1,5 +1,7 @@
 # PHP Mars-Rover Kata
 
+The objective of this project is just about working with tdd and solving a code puzzle for Interviews/Skills demonstrations.
+
 Credits to: https://github.com/codurance/katalyst-kickstart as is where I got the Skeleton from.
 Just small improvements over.
 
